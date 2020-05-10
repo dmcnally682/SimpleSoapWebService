@@ -16,6 +16,7 @@ Open in Eclipse
 Run
 Install Wilzdler
 Naivgate to WSSEPasswordTextAuthenication when executing endpoint
+
 username = 'user' and password = 'password'
 
 
