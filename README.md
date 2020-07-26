@@ -2,7 +2,7 @@
 
 Attached is a simple soap service created as part of the 'Master Java Web Services and RESTful Api with Spring and Spring Boot' (Udemy course).
 
-This soap web service is comprised of three endpoints to facilate requests regarding retrieving a course/courses and deleting a course (to mimic the back end of an application a University might use). The following are the areas that the course addressed and thus the application then implemented:
+This simple soap web service mimics the operation of the back end of an application a University may use in regards to the courses they offer. Thus, this soap web service api offers endpoints to facilate requests regarding retrieving a course/courses and deleting a course. More importantly, the purpose of completing this project was to address the following key areas in relation to developing a soap web service:
 
 Implemented Spring intializer to get application up and running fast
 
